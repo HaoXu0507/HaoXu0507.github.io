@@ -2,6 +2,11 @@
   <font size='70'>Hao Xu's Home Page</font>
 </div>
 
+<div align='right'> 
+  <img img src = /personal.png /img>
+</div>
+
+
 ## About Me
 I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
 
