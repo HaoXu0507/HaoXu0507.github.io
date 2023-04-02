@@ -1,19 +1,17 @@
-<div align='center'> 
-  <font size='70'>Hao Xu's Home Page</font>
-</div>
+# Much-Worse jekyll theme
 
+This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
 
-## About Me
-I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
+This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
+this theme has two useful changes:
 
-2018-2021, I was MPhil student in the College of Medicine and Biological Information Engineering, Northeastern University, China, under the supervision of Prof. [Chen Li](). 
+- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
+designed to be hosted at custom domain names.
 
-#### Email Address: [haxu0889@uni.sydney.edu.au](haxu0889@uni.sydney.edu.au), [xuhao950507@gmail.com](xuhao950507@gmail.com)
+- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
 
-## Research Interest: 
-#### Image Segmentation, Few-shot learning, Diffusion MRI, White Matter Tract Segmentation 
+Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
 
-## 2023
-* A REGISTRATION- AND UNCERTAINTY-BASED FRAMEWORK FOR WHITE MATTER TRACT SEGMENTATION WITH ONLY ONE ANNOTATED SUBJECT [[pdf](https://arxiv.org/abs/2303.14371),[code](https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation)]
+See it in action [here](http://people.csail.mit.edu/gchauras).
 
-  **Hao Xu**, Tengfei Xue, Dongnan Liu, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis2, Lauren J. O’Donnell, Weidong Cai, **ISBI**, 2023
+Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
