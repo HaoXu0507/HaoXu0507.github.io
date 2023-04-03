@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /
+---
+
 # Publications
 ## 2023
 * A REGISTRATION- AND UNCERTAINTY-BASED FRAMEWORK FOR WHITE MATTER TRACT SEGMENTATION WITH ONLY ONE ANNOTATED SUBJECT [[pdf](https://arxiv.org/abs/2303.14371),[code](https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation)]
