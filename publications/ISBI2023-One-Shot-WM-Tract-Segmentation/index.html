@@ -10,67 +10,98 @@ permalink: /publications/isbi2023/
         body {
             text-align: center;
         }
-        .row {
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        section {
+            margin-top: 100px;
+        }
+        section video, section img {
+            display: block;
+            margin: 0 auto;
+        }
+        section .images {
             display: flex;
-            flex-wrap: wrap;
             justify-content: center;
             align-items: center;
         }
-        .col {
-            flex: 1;
-            margin: 10px;
-            text-align: center;
+        section .images img {
+            margin: 0 10px;
+        }
+        section .images p {
+            margin: 10px 0;
+        }
+        section pre {
+            text-align: left;
+            margin-left: 0;
         }
     </style>
 </head>
 <body>
-    <h1>A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation With Only One Annotated Subject</h1>
-    
-    <ul>
-        <li><a href="#">Author 1</a></li>
-        <li><a href="#">Author 2</a></li>
-        <li><a href="#">Author 3</a></li>
-    </ul>
-    
-    <p>Department of Computer Science, University of XYZ</p>
-    <h2>Video</h2>
-    <video width="320" height="240" controls>
-          <source src="video.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-    </video>
-    <h2>Image</h2>
-    <img src="image.jpg" alt="Image">
-    <h2>Images with Text</h2>
-    <div class="row">
-        <div class="col">
-            <a href="#"><img src="image1.jpg" alt="Image 1"></a>
-            <p><a href="#">Text 1</a></p>
+    <nav>
+        <a href="#home">Home</a>
+    </nav>
+    <section>
+        <h1>A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation With Only One Annotated Subject</h1>
+
+    <p>
+        <li>< a href="https://haoxu0507.github.io/">Hao Xu</ a><sup>1</sup>,  < a href="#">Tengfei Xue</ a><sup>1,2</sup>, < a href="#">Dongnan Liu</ a><sup>1</sup>,
+            < a href="#">Fan Zhang</ a><sup>2</sup>, < a href="#">Carl-Fredrik Westin</ a><sup>2</sup>, < a href="#">Ron Kikinis</ a><sup>2</sup>, 
+            < a href="#">Lauren J. O’Donnell</ a><sup>2</sup>, < a href="#">Weidong Cai</ a><sup>1</sup></li>
+    </p>
+    
+    <p><sup>1</sup> School of Computer Science, University of Sydney, Australia <sup>2</sup> Brigham and Women’s Hospital, Harvard Medical School, USA</p>
+    </section>
+    <section>
+        <video src="video.mp4" controls></video>
+    </section>
+    <section>
+        <img src="image.jpg" alt="Image">
+    </section>
+    <section>
+        <div class="images">
+            <img src="arxiv.png" alt="Arxiv">
+            <img src="github.png" alt="Github">
+            <img src="video.png" alt="Video">
+            <img src="bibtex.png" alt="Bibtex">
         </div>
-        <div class="col">
-            <a href="#"><img src="image2.jpg" alt="Image 2"></a>
-            <p><a href="#">Text 2</a></p>
+        <div class="images">
+            <p><a href="#">Arxiv Link</a></p>
+            <p><a href="#">Github Link</a></p>
+            <p><a href="#">Video Link</a></p>
+            <p><a href="#">Bibtex Link</a></p>
         </div>
-        <div class="col">
-            <a href="#"><img src="image3.jpg" alt="Image 3"></a>
-            <p><a href="#">Text 3</a></p>
-        </div>
-        <div class="col">
-            <a href="#"><img src="image4.jpg" alt="Image 4"></a>
-            <p><a href="#">Text 4</a></p>
-        </div>
-    </div>
-    <h2>Bibtex</h2>
-    <pre>
-        <code>
-            @inproceedings{isbi2023,
-              title={ISBI2023},
-              author={Author 1 and Author 2 and Author 3},
-              booktitle={Proceedings of the International Symposium on Biomedical Imaging},
-              year={2023}
+    </section>
+    <section>
+        <h2>Bibtex</h2>
+        <pre>
+            @article{article1,
+              title={Title},
+              author={Author},
+              journal={Journal},
+              volume={1},
+              number={2},
+              pages={1--10},
+              year={2022},
+              publisher={Publisher}
             }
-        </code>
-    </pre>
-    <h2>Acknowledge</h2>
-    <p>We would like to thank the organizers of ISBI2023 for providing us with the opportunity to present our work.</p>
+        </pre>
+    </section>
+    <section>
+        <h2>Acknowledge</h2>
+        <p>Acknowledge text goes here.</p>
+    </section>
+    <a name="home"></a>
 </body>
 </html>
