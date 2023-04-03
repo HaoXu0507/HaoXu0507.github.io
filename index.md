@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## About Me
-{% include image.html url="images/photo.jpg" caption="" max_width="150px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="80px" align="right" %}
 
 I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
 
@@ -19,6 +19,6 @@ I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer
 
 ## Research Interest: 
 
-#### Image Segmentation, Few-shot learning, Diffusion MRI, White Matter Tract Segmentation 
+#### Computer Vision, Few-shot learning, Diffusion MRI, White Matter Tract Segmentation 
 
 
