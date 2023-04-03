@@ -43,7 +43,22 @@ permalink: /publications/isbi2023_01/
             display: flex;
             width: 20%
         }
-  
+    .icon {
+        margin: 0 auto;
+        width: 50%;
+        height: 200px;
+
+    }
+
+    .icon .imag-1 {
+        float: left;
+        height: 100%;
+    }
+
+    .icon .imag-1 img {
+        width: 100%;
+        height: 100%;
+    }
     </style>
 </head>
 <body>
@@ -60,13 +75,32 @@ permalink: /publications/isbi2023_01/
     </p>
     
     <p><sup>1</sup>University of Sydney <sup>2</sup>Harvard Medical School</p>
-    <div class="images">
+<!--     <div class="images">
             <a href="https://arxiv.org/abs/2303.14371"><img src="./paper.png" width=20%>Paper</a>
             <a href="https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation"><img src="./github.png" width=20%>Code</a>
             <a href="#video"><img src="./video.png" width=20%>Video</a>
             <a href="#bibtex"><img src="./bibtex.jpg" width=20%>BibTex</a>
+        </div> -->
+        
+    <div class="icon" style="text-align: center">
+        <div href="https://arxiv.org/abs/2303.14371" class="imag-1">
+            <img src="/paper.png"/>
+            <span style="text-align: center">Paper</span>
         </div>
-
+        <div href="https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation" class="imag-1">
+            <img src="./github.png"/>
+            <span style="text-align: center">Code</span>
+        </div>
+        <div href="#video"  class="imag-1">
+            <img src="./video.png"/>
+            <span style="text-align: center">Video</span>
+        </div>
+        <div href="#bibtex" class="imag-1">
+            <img src="./bibtex.jpg"/>
+            <span style="text-align: center">BibTex</span>
+        </div>
+    </div>
+        
     </section>
     
     <section id="overview">
