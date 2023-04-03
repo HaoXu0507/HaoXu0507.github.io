@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## About Me
-{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="150px" align="right" %}
 
 I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
 
@@ -19,7 +19,4 @@ I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer
 
 #### Image Segmentation, Few-shot learning, Diffusion MRI, White Matter Tract Segmentation 
 
-## 2023
-* A REGISTRATION- AND UNCERTAINTY-BASED FRAMEWORK FOR WHITE MATTER TRACT SEGMENTATION WITH ONLY ONE ANNOTATED SUBJECT [[pdf](https://arxiv.org/abs/2303.14371),[code](https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation)]
 
-  **Hao Xu**, Tengfei Xue, Dongnan Liu, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis2, Lauren J. O’Donnell, Weidong Cai, **ISBI**, 2023
