@@ -1,0 +1,114 @@
+---
+permalink: /publications/isbi2023_01/
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ISBI2023</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        section {
+            margin-top: 100px;
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+     
+        section video{
+            display: block;
+            margin: 0 auto;
+        }
+        
+       
+        section .images {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        section .images img {
+            margin: 0 10px;
+            width: 10%;
+        }
+       
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="https://haoxu0507.github.io/">Home</a>
+    </nav>
+    <section>
+        <h1>A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation With Only One Annotated Subject</h1>
+
+    <p>
+        <li><a href="https://haoxu0507.github.io/">Hao Xu</a><sup>1</sup>,  <a href="#">Tengfei Xue</a><sup>1,2</sup>, <a href="#">Dongnan Liu</a><sup>1</sup>,
+            <a href="#">Fan Zhang</a><sup>2</sup>, <a href="#">Carl-Fredrik Westin</a><sup>2</sup>, <a href="#">Ron Kikinis</a><sup>2</sup>, 
+            <a href="#">Lauren J. O’Donnell</a><sup>2</sup>, <a href="#">Weidong Cai</a><sup>1</sup></li>
+    </p>
+    
+    <p><sup>1</sup>University of Sydney <sup>2</sup>Harvard Medical School</p>
+    <div class="images">
+            <a href="https://arxiv.org/abs/2303.14371"><img src="./paper.png">Paper</a>
+            <a href="https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation"><img src="./github.png">Code</a>
+            <a href="#video"><img src="./video.png">Video</a>
+            <a href="#bibtex"><img src="./bibtex.jpg">BibTex</a>
+        </div>
+
+    </section>
+    
+    <section id="overview">
+        <h2>Overview</h2>
+        <p align="justify">
+            White matter (WM) tract segmentation based on diffusion magnetic resonance imaging (dMRI) plays an important role in the analysis of human health and brain diseases.
+            However, the annotation of WM tracts is time-consuming and needs experienced neuroanatomists. 
+            In this study, to explore tract segmentation in the challenging setting of minimal annotations, we propose a novel framework utilizing only one annotated subject (subject-level one-shot) for tract segmentation. 
+            Our method is constructed by proposed registration-based peak augmentation (RPA) and uncertainty-based refining (URe) modules. 
+            Registration-based data augmentation is employed for synthesizing pseudo subjects and their corresponding labels to improve the tract segmentation performance. 
+            The proposed uncertainty-based refining module alleviates the negative influence of the low-confidence predictions on pseudo labels. 
+            Comparison results indicate the effectiveness of our proposed modules, by achieving accurate whole-brain tract segmentation with only one annotated subject.
+         </p>
+        <img id="framework" src="framework.png" width=60%>
+    </section>
+    <section id="video">
+        <h2>Video</h2>
+        <video src="video.mp4" controls></video>
+    </section>
+    <section>
+        
+    </section>
+    <section id="bibtex">
+        <h2>Bibtex</h2>
+        <pre>
+        <code>
+        @inproceedings{Xu_2023_ISBI,
+        title={A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation With Only One Annotated Subject },
+        author={Xu, Hao and Xue, Tengfei and Liu, Dongnan and Zhang, Fan and Westin, Carl-Fredrik and Kikinis, Ron and J. O'Donnell, Lauren and Cai, Weidong},
+        booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
+        year={2023},
+        organization={IEEE}
+        }
+        </code>
+        </pre>
+    </section>
+    <section>
+        <h2>Acknowledge</h2>
+        <p>Acknowledge text goes here.</p>
+    </section>
+    <a name="home"></a>
+</body>
+</html>
