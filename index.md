@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="200px" align="right" %}
 
 I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
 
