@@ -6,7 +6,9 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I am Hao Xu (徐好 in chinese), currently a Ph.D. student in school of computer science, University of Sydney, supervised by Prof. [Weidong (Tom) Cai]().
+
+2018-2021, I was MPhil student in the College of Medicine and Biological Information Engineering, Northeastern University, China, under the supervision of Prof. [Chen Li](). 
 
 #### Email Address: [haxu0889@uni.sydney.edu.au](haxu0889@uni.sydney.edu.au), [xuhao950507@gmail.com](xuhao950507@gmail.com)
 
