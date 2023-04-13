@@ -10,4 +10,4 @@ permalink: /publications/
 
   **Hao Xu**, Tengfei Xue, Dongnan Liu, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis2, Lauren J. O’Donnell, Weidong Cai. 
   
-  The IEEE International Symposium on Biomedical Imaging (ISBI) 2023 (Oral)
+  The IEEE International Symposium on Biomedical Imaging (ISBI) 2023
