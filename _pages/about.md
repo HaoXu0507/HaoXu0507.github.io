@@ -23,8 +23,8 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 One paper has been accepted by MIDL 2024. 
+- *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ISBI 2023. 
 
 # 📝 Publications 
 
@@ -45,6 +45,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 [A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation with Only One Annotated Subject](https://ieeexplore.ieee.org/abstract/document/10230415)
   
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
 [[Paper]](https://arxiv.org/abs/2303.14371) [[Project]](https://haoxu0507.github.io/publications/isbi2023_01/) [[Code]](https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation)
 </div>
 </div>
