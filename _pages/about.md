@@ -23,16 +23,16 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by MICCAI 2024 Workshop - MedAGI (Oral). 
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by MICCAI 2024 - MedAGI (Oral). 
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by MIDL 2024. 
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ISBI 2023. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIDL 2024</div><img src='images/MIDL-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI 2024</div><img src='images/MIDL-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAT-Morph: Unsupervised Deformable Medical Image Registration using Vision Foundation Models with Anatomically Aware Text Prompt](https://haoxu0507.github.io/)
+[SAT-Morph: Unsupervised Deformable Medical Image Registration using Vision Foundation Models with Anatomically Aware Text Prompt](https://haoxu0507.github.io/)(Oral)
 
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
 
@@ -40,7 +40,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI 2024 (Oral)</div><img src='images/MedAGI-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIDL 2024</div><img src='images/MedAGI-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Uncertainty-Distillation- and Voxel-Contrast-based Framework for One-shot Segmentation of Novel White Matter Tracts](https://openreview.net/forum?id=dBh5Sarrlj)
