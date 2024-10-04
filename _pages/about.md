@@ -32,11 +32,11 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI 2024</div><img src='images/MedAGI-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAT-Morph: Unsupervised Deformable Medical Image Registration using Vision Foundation Models with Anatomically Aware Text Prompt](https://medagi.github.io/assets/papers/P3.pdf)(Oral) 
+[SAT-Morph: Unsupervised Deformable Medical Image Registration using Vision Foundation Models with Anatomically Aware Text Prompt](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_8)(Oral) 
 
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
 
-[[Paper]](https://medagi.github.io/assets/papers/P3.pdf) [[Project]](https://medagi.github.io/assets/papers/P3.pdf) [[Code]](https://github.com/HaoXu0507/SAT-Morph/)
+[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-73471-7.pdf) [[Project]](https://medagi.github.io/assets/papers/P3.pdf) [[Code]](https://github.com/HaoXu0507/SAT-Morph/)
 </div>
 </div>
 
