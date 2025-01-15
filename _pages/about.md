@@ -28,7 +28,8 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ISBI 2023. 
 
 # 🏅 Workshop & Challenge
-- Call for papers and participation: [Foundation Models in Medicine (FMM), IJCNN 2025](https://sites.google.com/view/fmmedicine). 
+- Call for papers and participation: [Foundation Models in Medicine (FMM), IJCNN 2025](https://sites.google.com/view/fmmedicine).
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI 2024</div><img src='images/MedAGI-2024.png' alt="sym" width="100%"></div></div>
