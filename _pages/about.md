@@ -23,6 +23,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by IPMI 2025. 
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by MICCAI 2024 - MedAGI (Oral). 
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by MIDL 2024. 
 - *2023.02*: &nbsp;🎉🎉 One paper has been accepted by ISBI 2023. 
@@ -31,6 +32,17 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 - Call for papers and participation: [Foundation Models in Medicine (FMM), IJCNN 2025](https://sites.google.com/view/fmmedicine).
   
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPMI 2025</div><img src='images/IPMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness](https://arxiv.org/abs/2502.11440)
+
+[**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Jianan Fan](https://scholar.google.com.hk/citations?user=6MED4dQAAAAJ&hl=zh-CN&oi=sra), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Yuqian Chen](https://scholar.google.com/citations?user=1RO71vMAAAAJ&hl=zh-CN), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
+[[Paper]](https://arxiv.org/pdf/2502.11440) [[Project]] [[Code]](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedAGI 2024</div><img src='images/MedAGI-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
