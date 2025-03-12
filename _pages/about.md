@@ -41,7 +41,8 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [[Paper]](https://arxiv.org/pdf/2503.06598) [[Project]]([https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration](https://arxiv.org/pdf/2503.06598)) [[Code]](https://arxiv.org/pdf/2503.06598)
 
-
+</div>
+</div>
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPMI 2025</div><img src='images/IPMI-2025.png' alt="sym" width="100%"></div></div>
