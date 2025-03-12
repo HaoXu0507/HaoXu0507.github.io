@@ -40,8 +40,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Yuqian Chen](https://scholar.google.com/citations?user=1RO71vMAAAAJ&hl=zh-CN), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
 
 [[Paper]](https://arxiv.org/pdf/2503.06598) [[Project]]([https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration](https://arxiv.org/pdf/2503.06598)) [[Code]](https://arxiv.org/pdf/2503.06598)
-</div>
-</div>
+
 
 
 # 📝 Publications
