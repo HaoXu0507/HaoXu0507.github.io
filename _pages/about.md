@@ -23,7 +23,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Three papers have been accepted by BIBM 2025. 
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by BIBM 2025. 
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by IPMI 2025. 
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by MICCAI 2024 - MedAGI (Oral). 
 - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by MIDL 2024. 
