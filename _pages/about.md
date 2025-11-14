@@ -52,6 +52,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 [Geometric–Semantic Harmony: A Dual-Student Framework for One-Shot White-Matter Tract Segmentation]()
 
 [**Hao Xu**](https://haoxu0507.github.io/), [Zihan Li](), [Chen Li](https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en), and [Xue Bai]()
+
 [[Paper]]() [[Project]]() [[Code]]()
 </div>
 </div>
