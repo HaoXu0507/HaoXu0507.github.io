@@ -46,6 +46,14 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 </div>
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2025</div><img src='images/BIBM-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometric–Semantic Harmony: A Dual-Student Framework for One-Shot White-Matter Tract Segmentation]()
+
+[**Hao Xu**](https://haoxu0507.github.io/), [Zihan Li](), [Chen Li](https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en), and [Xue Bai]()
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPMI 2025</div><img src='images/IPMI-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
