@@ -66,7 +66,7 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
 
-[International Workshop on Foundation Models for General Medical AI (MedAGI) 2024 @ MICCAI](https://medagi.github.io/)
+[International Workshop on Foundation Models for General Medical AI (MedAGI) @ MICCAI 2024](https://medagi.github.io/)
 
 [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-73471-7.pdf) [[Project]](https://medagi.github.io/assets/papers/P3.pdf) [[Code]](https://github.com/HaoXu0507/SAT-Morph/)
 </div>
