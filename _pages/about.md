@@ -38,9 +38,9 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [Geometric–Semantic Harmony: A Dual-Student Framework for One-Shot White-Matter Tract Segmentation]()
 
-[International Conference on Bioinformatics and Biomedicine (BIBM) 2025](https://biod.whu.edu.cn/bibm2025/)
-
 [**Hao Xu**](https://haoxu0507.github.io/), [Zihan Li](), [Chen Li](https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en), and [Xue Bai]()
+
+[International Conference on Bioinformatics and Biomedicine (BIBM) 2025](https://biod.whu.edu.cn/bibm2025/)
 
 [[Paper]]() [[Project]]() [[Code]]()
 </div>
@@ -51,9 +51,9 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness](https://arxiv.org/abs/2502.11440)
 
-[International Conference on Information Processing in Medical Imaging (IPMI) 2025](https://ipmi2025.org/)
-
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Jianan Fan](https://scholar.google.com.hk/citations?user=6MED4dQAAAAJ&hl=zh-CN&oi=sra), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Yuqian Chen](https://scholar.google.com/citations?user=1RO71vMAAAAJ&hl=zh-CN), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
+[International Conference on Information Processing in Medical Imaging (IPMI) 2025](https://ipmi2025.org/)
 
 [[Paper]](https://arxiv.org/pdf/2502.11440) [[Project]](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration) [[Code]](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration)
 </div>
@@ -64,9 +64,9 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [SAT-Morph: Unsupervised Deformable Medical Image Registration using Vision Foundation Models with Anatomically Aware Text Prompt](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_8)(Oral) 
 
-[International Workshop on Foundation Models for General Medical AI (MedAGI) 2024 @ MICCAI](https://medagi.github.io/)
-
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
+[International Workshop on Foundation Models for General Medical AI (MedAGI) 2024 @ MICCAI](https://medagi.github.io/)
 
 [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-73471-7.pdf) [[Project]](https://medagi.github.io/assets/papers/P3.pdf) [[Code]](https://github.com/HaoXu0507/SAT-Morph/)
 </div>
@@ -77,9 +77,9 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 
 [An Uncertainty-Distillation- and Voxel-Contrast-based Framework for One-shot Segmentation of Novel White Matter Tracts](https://openreview.net/forum?id=dBh5Sarrlj)
 
-[International Conference on Medical Imaging with Deep Learning (MIDL) 2024](https://2024.midl.io/)
-
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
+[International Conference on Medical Imaging with Deep Learning (MIDL) 2024](https://2024.midl.io/)
 
 [[Paper]](https://openreview.net/pdf?id=dBh5Sarrlj) [[Project]](https://openreview.net/forum?id=dBh5Sarrlj) [[Code]](https://openreview.net/forum?id=dBh5Sarrlj)
 </div>
@@ -89,10 +89,10 @@ I am now a PhD student in the School of Computer Science at the University of Sy
 <div class='paper-box-text' markdown="1">
 
 [A Registration- and Uncertainty-based Framework for White Matter Tract Segmentation with Only One Annotated Subject](https://ieeexplore.ieee.org/abstract/document/10230415)
-
-[International Symposium on Biomedical Imaging (ISBI) 2023](https://biomedicalimaging.org/2023/)
   
 [**Hao Xu**](https://haoxu0507.github.io/), [Tengfei Xue](https://scholar.google.com/citations?user=VNalyUQAAAAJ&hl=en), [Dongnan Liu](https://www.researchgate.net/profile/Dongnan-Liu), [Fan Zhang](https://scholar.google.com/citations?user=kTd978wAAAAJ&hl=en), [Carl-Fredrik Westin](https://brighamandwomens.theopenscholar.com/lmi/people/carl-fredrik-westin), [Ron Kikinis](https://brighamandwomens.theopenscholar.com/lmi/people/ron-kikinis-md), [Lauren J. O’Donnell](https://scholar.harvard.edu/laurenjodonnell/biocv), and [Weidong Cai](https://weidong-tom-cai.github.io/) 
+
+[International Symposium on Biomedical Imaging (ISBI) 2023](https://biomedicalimaging.org/2023/)
 
 [[Paper]](https://arxiv.org/abs/2303.14371) [[Project]](https://haoxu0507.github.io/publications/isbi2023_01/) [[Code]](https://github.com/HaoXu0507/ISBI2023-One-Shot-WM-Tract-Segmentation)
 </div>
