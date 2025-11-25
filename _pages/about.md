@@ -114,7 +114,7 @@ Previously, I received my Master's degree from Northeastern University under the
 
 
 
-# 🌍 Visitor Globe
+# 🌍 Visitor Map
 <script type="text/javascript" id="mapmyvisitors" 
         src="//mapmyvisitors.com/map.js?d=vQXe1F518IdU95tR1XLk6POcvCuOxmIuVqbANKrTnv0&cl=ffffff&w=a">
 </script>
