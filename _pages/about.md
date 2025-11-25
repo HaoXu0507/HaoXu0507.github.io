@@ -115,6 +115,7 @@ Previously, I received my Master's degree from Northeastern University under the
 
 <h2>🌍 Visitor Globe</h2>
 <div style="margin-top:10px;">
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=NlHGUnSRcjhnRUmNIMXSprw7zb1A1kYT6PI2MjjFwvg"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=NlHGUnSRcjhnRUmNIMXSprw7zb1A1kYT6PI2MjjFwvg"></script>
+
 </div>
 
