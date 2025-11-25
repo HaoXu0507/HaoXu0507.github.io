@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hao Xu, currently a postdoctoral research fellow at the Garvan Institute of Medical Research, University of New South Wales, where I am advised by Prof. [Ankur Sharma](https://scholar.google.com/citations?user=hXhCBW4AAAAI). Before joining Garvan, I completed my PhD in the School of Computer Science at the University of Sydney under the supervision of Prof. [Weidong Cai](https://scholar.google.com/citations?user=N8qTc2AAAAAJ). 
+Hi, I am Hao Xu, currently a postdoctoral research fellow at the Garvan Institute of Medical Research, University of New South Wales, where I am advised by Prof. [Ankur Sharma](https://scholar.google.com/citations?user=hXhCBW4AAAAI). Before that, I completed my PhD in the School of Computer Science at the University of Sydney under the supervision of Prof. [Weidong Cai](https://scholar.google.com/citations?user=N8qTc2AAAAAJ). 
 Previously, I received my Master's degree from Northeastern University under the supervision of Prof. [Chen Li](https://scholar.google.com/citations?user=pF4AS_EAAAAJ). 
 
 
