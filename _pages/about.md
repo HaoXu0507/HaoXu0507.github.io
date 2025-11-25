@@ -113,8 +113,8 @@ Previously, I received my Master's degree from Northeastern University under the
 </div>
 
 
-<div style="margin-top:40px;">
-  <a href="https://clustrmaps.com/site/1c0l1"  title="Visit tracker">
-    <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=KuyG8VZiPoPu03TL0oG8-BBnGFcnBozZ1x3sPqcUHQc"/>
-  </a>
+<h2>🌍 Visitor Globe</h2>
+<div style="margin-top:10px;">
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=NlHGUnSRcjhnRUmNIMXSprw7zb1A1kYT6PI2MjjFwvg"></script>
 </div>
+
