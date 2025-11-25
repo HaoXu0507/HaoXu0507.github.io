@@ -23,11 +23,11 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Hao Xu (徐好)"
   avatar           : "images/portrait.png"
-  bio              : "University of Sydney"
+  bio              : "Garvan Institute of Medical Research, UNSW"
   location         : "Sydney, Australia"
   # employer         :
   # pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=et8rDRUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=et8rDRUAAAAJ"
   email            : "haxu0889@uni.sydney.edu.au"
   # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   # uri              :
